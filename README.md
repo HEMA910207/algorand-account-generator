@@ -1,0 +1,2 @@
+# algorand-account-generator
+.
